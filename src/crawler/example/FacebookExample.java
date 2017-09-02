@@ -25,9 +25,9 @@ public class FacebookExample {
 		// [query sample]
 		// search?fields=name,id,likes,talking_about_count&limit=1000&q=靠北&type=page
 		String uri = 
-				"https://graph.facebook.com/v2.5"
+				"https://graph.facebook.com/v2.10"
 				+ "/search?q=%E9%9D%A0%E5%8C%97&type=page&limit=1000&fields=name,id,likes,talking_about_count"
-				+ "&access_token=EAACEdEose0cBAMzLyMlMxZAY73J1TBiZAHJhrF8du8fLhMmGYrUA3W9ezJDQk9oZAa07o4F2drZAL2k1cCtgdpl5LZClZCo6733A3xddNbjSAoTxEZBWY4rKnzLWTU3I0KMgT0qsw6eIRfdzg9RZCIkuTZCtGZCyzct657fywQpsFCNAZDZD";
+				+ "&access_token=EAACEdEose0cBAGaGrx7fHTkJBk2TqVZAwmULBcpQSyViaUehDSW6fgabJ0iDtwqPR6YW88SWfRZAoPJJn1cvZBegZAznOO2nd1Fo4RT3deshPDDvSgjRXsvQtxf5c3zvBl5dLShqM26haoYiojZCYYPeY8aMgyjGB73SSdKSIUaKe0Yoz6zuWNwqfPJBnZCq0ZD";
 
 
 
