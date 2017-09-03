@@ -10,7 +10,7 @@ import org.jsoup.select.Elements;
  */
 public class FBElasticImport {
 
-    static String elasticHost = "dyn.gibar.co" ;
+    static String elasticHost = "localhost" ;
     static String elasticPort = "9200" ;
     static String elasticIndex = "bee811101";    //YourGitHubID
     static String elasticIndexType = "data";
